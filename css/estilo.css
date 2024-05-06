@@ -99,4 +99,41 @@
   margin: 0 20px;
 }
 
-/* Fim CSS Faixa */
+/* Fim CSS Faixa */7
+
+
+/* Início  onde estamos */
+.onde-estamos{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+.onde-estamos p {
+  color: #3c184e;
+  font-size: 20px;
+  margin: 0 0 45px;
+}
+.onde-estamos iframe {
+  width: 800px;
+  height: 450px;
+}
+.container h3 {
+  margin-bottom: 30px;
+  font-size: 30px;
+
+}
+/* Fim onde estamos */
+/* Início do rodapé */
+.rodape {
+    background-color: #3c184e;
+    padding: 10px 0;
+}
+.text-rodape {
+ color:#fff;
+ font-size: 12px;
+ text-align: center;
+}
+/*  Fim do rodapé */
+
+
